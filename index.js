@@ -1,7 +1,7 @@
 (function($){
   const s = {
     init: function() {
-      console.log('Testing external components script ...');
+      console.log('Testing external components script change');
     }
   }
 
